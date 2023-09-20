@@ -1,1 +1,2 @@
 v001: updte new string
+v002: this file for test [content from Git_online]
