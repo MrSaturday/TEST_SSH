@@ -2,3 +2,4 @@ v001: updte new string
 v002: this file for test [content from Git_online]
 v003: this file for test [content from Git_online] by GIT_GLOBAL not ONLINE
 v004: this file for test [content from Git_online] by GIT_ONLINE by LOCAL
+v005: this modify from Visual code
